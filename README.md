@@ -5,38 +5,38 @@
 
 ✅ Pages Covered
 
-Homepage – Banner, Navigation, Search, Featured Products, Categories
+Homepage – Banner, Navigation, Search, Featured Products, Categories.
 
-Login & Registration – User authentication, security checks, password recovery
+Login & Registration – User authentication, security checks, password recovery.
 
-Product Listing (Category Page) – Sorting, filtering, pagination, load more
+Product Listing (Category Page) – Sorting, filtering, pagination, load more.
 
-Product Details – Images, description, reviews, stock availability, add to cart
+Product Details – Images, description, reviews, stock availability, add to cart.
 
-Cart – Item addition/removal, quantity update, price calculation
+Cart – Item addition/removal, quantity update, price calculation.
 
-Checkout – Address selection, payment options, order summary
+Checkout – Address selection, payment options, order summary.
 
-Payment Gateway – Multiple payment methods, order confirmation
+Payment Gateway – Multiple payment methods, order confirmation.
 
-Order Confirmation – Order details, email confirmation, invoice download
+Order Confirmation – Order details, email confirmation, invoice download.
 
-User Dashboard (My Account) – Profile update, address book, payment methods
+User Dashboard (My Account) – Profile update, address book, payment methods.
 
-Order History – Past orders, tracking, returns/refunds
+Order History – Past orders, tracking, returns/refunds.
 
-Wishlist – Add/remove products, move to cart, wishlist persistence
+Wishlist – Add/remove products, move to cart, wishlist persistence.
 
-Customer Support – FAQs, contact support
+Customer Support – FAQs, contact support.
 
-Reviews & Ratings – Add, edit, delete reviews
+Reviews & Ratings – Add, edit, delete reviews.
 
-Logout – Secure session termination
+Logout – Secure session termination.
 
 <h2>🛠 Who is This For?</h2>
 
-QA Testers looking for structured test cases
+QA Testers looking for structured test cases.
 
-Developers aiming for a bug-free e-commerce experience
+Developers aiming for a bug-free e-commerce experience.
 
-E-Commerce Businesses ensuring smooth customer journeys
+E-Commerce Businesses ensuring smooth customer journeys.
